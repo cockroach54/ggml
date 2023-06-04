@@ -12,3 +12,8 @@ compile_commands.json
 
 src/arm_neon.h
 tests/arm_neon.h
+
+# lsw
+lsw
+/**/models
+/**/models--EleutherAI--gpt-j-6B
